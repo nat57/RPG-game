@@ -1,0 +1,30 @@
+5
+through the day and night the sound of training guards can be heard.
+there are barracks off in the distance where all the guards may sleep if they do not currently 
+have money to get a room in an in or a house.
+all offices controlling the operations of the guardsmen are off to the left
+you currenly stand in the middle of the training area
+(you think to yourself,)[I better decide what I want to do before I end up in someone's way]
+search
+1
+monster
+Guard Captain
+2
+monster
+Regular Guard
+3
+item
+gold
+4
+item
+stick
+5
+item
+earthy material
+6
+nothing
+interact
+move forward
+move back
+head to next city
+go home

@@ -1,0 +1,40 @@
+location
+05
+C.O.H.A.S guard training location
+location
+10
+Forest 
+location
+PathToOldKingdom 2
+location
+Sahara 3
+location
+Desert 4
+location
+Mountain 5
+location
+Cave 6
+location
+Oceanoverlook 7
+location
+Ocean 8
+location
+Beachside 9
+city 100
+C.O.H.A.S (city of hope and strength)
+city 200
+V.I.T.T.A.H.I.L (village in the trees all hidden in leaves)
+city 300
+Ruins of the Old Kingdom
+city 400
+L.O.P (Land of Pride)
+city 500
+T.I.N.A.O (This is not an Oasis)
+city 600
+Crystal Sky City
+city 700
+
+city
+city
+city
+city

@@ -1,0 +1,137 @@
+0
+you are at the entrance to the forest
+it is bright and peaceful yet the further you peer in the darker the forest seems to get
+you are sure that you don't want to venture too far without enough experience
+search
+1
+monster
+Metal Eating Hogg
+2
+monster
+Curious Dwarf
+3
+item
+gold
+4
+item
+stick
+5
+item
+earthy material
+6
+nothing
+interact
+move forward
+move back
+head to next city
+go home
+1
+forest level one
+search
+1
+monster
+metal eating hog
+2
+monster
+curious dwarf
+3
+gold
+4
+stick
+5
+earthy material
+6
+nothing
+interact
+move forward
+move back
+head to next city
+go home
+2
+forest level two
+search
+1
+monster
+metal eating hog
+2
+monster
+curious dwarf
+3
+gold
+4
+stick
+5
+earthy material
+6
+nothing
+interact
+move forward
+move back
+head to next city
+go home
+3
+forest level three
+search
+1
+monster
+metal eating hog
+2
+monster
+curious dwarf
+3
+gold
+4
+stick
+5
+earthy material
+6
+nothing
+interact
+move forward
+move back
+head to next city
+go home
+4 
+forest level four
+search
+1
+monster
+metal eating hog
+2
+monster
+curious dwarf
+3
+gold
+4
+stick
+5
+earthy material
+6
+nothing
+interact
+move forward
+move back
+head to next city
+go home
+5
+forest level five
+search
+1
+monster
+metal eating hog
+2
+monster
+curious dwarf
+3
+gold
+4
+stick
+5
+earthy material
+6
+nothing
+interact
+move forward
+move back
+head to next city
+go home

@@ -1,0 +1,11 @@
+Regular Guard 
+a 5 foot 8 person weilding a practice broad sword
+condition
+100
+it is in great condition and ready to charge
+65
+you notice fatigue starting to set in as it slows down
+30
+The guard is heavily injured
+10
+the guard has begun to breath heavily they look like they might pass out.
